@@ -74,7 +74,7 @@ function Home() {
                           <div className="flex justify-center text-6xl rounded-2xl p-6 w-full">
                               <GalleryItemTile
                                   imgSource={ItemsReforgingImg}
-                                  redirectUrl='/boss-fight'
+                                  redirectUrl='/reforging-system'
                                   descriptionTitle='Reforging System'
                                   descriptionBody1='Reforge your items'
                                   descriptionBody2='and trade the dust into even better equipment!'
