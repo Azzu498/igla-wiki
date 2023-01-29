@@ -33,7 +33,7 @@ const SideBar = () => {
                         </li>
                         <li>
                             <a className="flex ease-out justify-start border border-transparent items-center overflow-hidden text-base group p-3 rounded-lg w-full gap-4 hover:bg-[#172B51]/50 transition-colors"
-                               href="/app/">
+                               href="/enchanting-system">
 
                                 <p className="leading-none truncate">Items Enchanting System</p></a>
                         </li>
@@ -57,7 +57,7 @@ const SideBar = () => {
                         </li>
                         <li>
                             <a className="flex ease-out justify-start border border-transparent items-center overflow-hidden text-base group p-3 rounded-lg w-full gap-4 hover:bg-[#172B51]/50 transition-colors"
-                               href="/app/">
+                               href="/reforging-system">
 
                                 <p className="leading-none truncate">Reforging System</p></a>
                         </li>

@@ -2,7 +2,7 @@ import React from 'react';
 import Link from "next/link";
 import Image from "next/image";
 
-function BossHunting() {
+function ItemsReforging() {
     return (
         <div className='grid h-screen place-items-center w-full p-4 !pt-0 sm:mx-10 text-white text-center'>
             <h1 className='text-center text-5xl py-4'>Reforging System</h1>
@@ -72,10 +72,10 @@ function BossHunting() {
                     />
                 </Link>
             </div>
-            <p className='py-5'>This way you can equip your character faster without droping the actual item you need :-)</p>
+            <p className='py-5'>This way you can equip your character faster without droping the actual item you need</p>
 </div>
 
     );
 }
 
-export default BossHunting;
+export default ItemsReforging;

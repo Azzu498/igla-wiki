@@ -123,7 +123,7 @@ const Navbar = () => {
                                         Rare Loot
                                     </li>
                                 </Link>
-                                <Link href='/#projects'>
+                                <Link href='/enchanting-system'>
                                     <li onClick={() => setNav(false)} className='flex ease-out justify-start border border-transparent items-center overflow-hidden text-base group p-3 rounded-lg w-full gap-4 hover:bg-[#172B51]/50 transition-colors'>
                                         Items Enchanting System
                                     </li>
@@ -143,7 +143,7 @@ const Navbar = () => {
                                         Hunting Tasks
                                     </li>
                                 </Link>
-                                <Link href='/#contact'>
+                                <Link href='/reforging-system'>
                                     <li onClick={() => setNav(false)} className='flex ease-out justify-start border border-transparent items-center overflow-hidden text-base group p-3 rounded-lg w-full gap-4 hover:bg-[#172B51]/50 transition-colors'>
                                         Reforging System
                                     </li>

@@ -37,7 +37,7 @@ function Home() {
                           <div className="flex justify-center rounded-2xl w-full">
                               <GalleryItemTile
                                   imgSource={EnchantingImg}
-                                  redirectUrl='/boss-fight'
+                                  redirectUrl='/enchanting-system'
                                   descriptionTitle='Enchanting System'
                                   descriptionBody1='Check out fully custom'
                                   descriptionBody2='enchanting system!'
